@@ -5,9 +5,9 @@
 - Đưa ra OKR cá nhân & update hàng tuần
 - Tham gia họp team/seminar team hàng tuần
 - Tham gia các seminar group hàng tuần
-- Tích cực đưa ra ý tưởng
+- Tích cực đưa ra ý tưởng hoạt động cho team
 - Chống đẩy hàng ngày
-- Đi nhậu cùng anh em (beer)
+- Đi nhậu cùng anh em 🍺
 
 ## Về công việc cá nhân
 
@@ -23,3 +23,4 @@
 - [ ] Tìm hiểu & thực hành về viết unit test
 - [ ] Tìm hiểu & thực hành về deploy
 - [ ] Tìm hiểu & thực hành về docker & continuos intergration (CI)
+- [ ] Tìm hiểu & thực hành về một nền tảng blockchain khác (Hyperledger, Libra)

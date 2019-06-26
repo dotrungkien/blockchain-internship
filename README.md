@@ -44,7 +44,7 @@ Các intern về nền tảng Hyperledger sẽ:
   - Kiến thức về Identity
   - Kiến thức về Membership
   - Kiến thức về Peers
-  - Kiến thức về Chaincode
+  - Kiến thức về Chaincode & Policy
   - Kiến thức về Ledger và database
   - Kiến thức về Orderer
   - Kiến thức về Private Data
