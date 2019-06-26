@@ -55,3 +55,7 @@ Các intern về nền tảng Hyperledger sẽ:
 - Có kiến thức và biết cách sử dụng NodeJS
 - Biết cách viết chaincode với NodeJS & Golang
 - Biết cách sử dụng NodeJS SDK & kết nối với network
+
+## TODO
+
+- Ethereum intern: tham khảo [TODO-Ethereum](./TODO-Ethereum.md)
