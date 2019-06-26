@@ -59,3 +59,4 @@ Các intern về nền tảng Hyperledger sẽ:
 ## TODO
 
 - Ethereum intern: tham khảo [TODO-Ethereum](./TODO-Ethereum.md)
+- Ethereum intern: tham khảo [TODO-Hyperledger](./TODO-Hyperledger.md)
